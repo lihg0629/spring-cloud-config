@@ -18,7 +18,9 @@ spring:
 #    timeout: 10000
     
     
-    
+app:
+  message:
+    HI, I am Provider
 server:
   port: 10080
 eureka:
