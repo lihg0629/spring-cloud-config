@@ -20,7 +20,7 @@ spring:
     
 app:
   message:
-    HI, I am Provider, HaHaHa~~~!!!!!!!!!!!!!!!
+    HI, I am Provider, HaHaHa~~~!!!!!!!!!!!!!!!!!!!
 server:
   port: 10080
 eureka:
